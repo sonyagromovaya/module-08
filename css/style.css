@@ -105,7 +105,7 @@ button {
 
 .header {
      background-color: #000000;
-     background-image: url("/img/background-header-mobile.png");
+     background-image: url("/img/Background-header-mobile.png");
      min-height: 540px;
 }
 
@@ -239,21 +239,21 @@ button {
 }
 
 .partners-img-01::after{
-     background-image: url("/img/partners-01-after.png");
+     background-image: url("/img/Partners-01-after.png");
 }
 
 .partners-img-02::after{
-     background-image: url("/img/partners-02-after.png");
+     background-image: url("/img/Partners-02-after.png");
      background-color: rgb(255, 165, 7);
 }
 
 .partners-img-03::after{
-     background-image: url("/img/partners-03-after.png");
+     background-image: url("/img/Partners-03-after.png");
      background-color: rgb(28, 215, 173);
 }
 
 .partners-img-04::after{
-     background-image: url("/img/partners-04-after.png");
+     background-image: url("/img/Partners-04-after.png");
      background-color: rgb(78, 115, 219);
 }
 
