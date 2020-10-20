@@ -257,21 +257,21 @@ button {
 }
 
 .partners-img-01::after {
-     background-image: url("../img/Partners-01-after.PNG");
+     background-image: url("../img/partners-01-after.png");
 }
 
 .partners-img-02::after {
-     background-image: url("../img/Partners-02-after.PNG");
+     background-image: url("../img/partners-02-after.png");
      background-color: rgb(255, 165, 7);
 }
 
 .partners-img-03::after {
-     background-image: url("../img/Partners-03-after.PNG");
+     background-image: url("../img/partners-03-after.png");
      background-color: rgb(28, 215, 173);
 }
 
 .partners-img-04::after {
-     background-image: url("../img/Partners-04-after.PNG");
+     background-image: url("../img/partners-04-after.png");
      background-color: rgb(78, 115, 219);
 }
 
@@ -295,7 +295,7 @@ button {
 
 @media (min-width:768px) {
      .header {
-          background-image: url(../img/background-header-tablet.png);
+          background-image: url("../img/background-header-tablet.png");
           min-height: 700px;
      }
 
