@@ -225,6 +225,10 @@ button {
      width: 200px;
 }
 
+.partners-list-item:not(:last-child) {
+     padding-bottom: 27px;
+}
+
 .partners-list {
      display: flex;
      flex-direction: column;
